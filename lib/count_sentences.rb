@@ -40,4 +40,5 @@ class String
 
     return (string_array.length)
   end
+  
 end
